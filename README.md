@@ -1,2 +1,2 @@
 # Teste 
-Arquivo de Tesde da aula de Lógica
+Arquivo de Teste da aula de Lógica
